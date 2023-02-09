@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Giacomo\Desktop\Università\Ingegneria dei Dati\Repository\lucenexHW1\.metadata\.plugins\org.eclipse.jdt.core
