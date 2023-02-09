@@ -1,3 +1,4 @@
-# lucenex
+# lucenex HW3
 
-A few Lucene examples 
+Joinable table  search
+Giacomo Dandolo
